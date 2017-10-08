@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JAX-WS" type="JAX-WS">
+    <CLASSES>
+      <root url="jar:///usr/local/apache-tomcat-8.5.20/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
